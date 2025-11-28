@@ -83,7 +83,6 @@ petpals/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
 cd faisal
 ```
 
@@ -216,35 +215,6 @@ npm run android
 # Type checking
 npx tsc --noEmit
 ```
-
-## 📦 Deployment
-
-### Backend Deployment
-- Deploy to Railway, Heroku, or AWS
-- Set environment variables
-- Run migrations on production database
-- Update CORS settings
-
-### Mobile Deployment
-- Build for iOS: `eas build --platform ios`
-- Build for Android: `eas build --platform android`
-- Submit to App Store / Play Store
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🙏 Acknowledgments
-
-- Design inspiration from modern pet adoption apps
-- Sample pet images from Unsplash
-- Icons from Expo Vector Icons (Ionicons)
-
-## 📞 Support
 
 For support, email your-email@example.com or create an issue in this repository.
 
